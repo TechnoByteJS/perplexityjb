@@ -1,10 +1,10 @@
 # Perplexity jailbreaks
 
-**Important: Disable [AI Data Usage in settings.](https://i.ibb.co/MC0HFhz/2023-08-05-182145-hyprshot.png)**
+## Important: Disable [AI Data Usage in settings.](https://i.ibb.co/MC0HFhz/2023-08-05-182145-hyprshot.png)
 
-**This guide assumes that you have an account and are using the "Writing" focus.**
+This guide assumes that you have an account and are using the "Writing" focus.
 
-## 1. System prompt injection (the one you might've seen, funny but not actually that useful as a jailbreak)
+## Method 1: System prompt injection (the one you might've seen, funny but not actually that useful as a jailbreak)
 
 **What does it do?**
 
@@ -51,7 +51,7 @@ Other info:
 
 
 
-## 2. Fake context (needs a good prompt, very good for erotic writing/roleplay)
+## Method 2: Fake context (better method, very good for erotic writing/roleplay)
 
 **What does it do?**
 
