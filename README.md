@@ -2,7 +2,10 @@
 
 ### Important: Disable [AI Data Usage in settings](https://i.ibb.co/MC0HFhz/2023-08-05-182145-hyprshot.png) before you try any of this!
 
-### If you're just here for NSFW storywriting/roleplay: [Pre-jailbroken conversation](https://www.perplexity.ai/search/bdfc5878-b836-4386-a927-c5fe8a053c8d)
+### If you're just here for NSFW storywriting/roleplay:
+- [Jailbroken conversation](https://www.perplexity.ai/search/bdfc5878-b836-4386-a927-c5fe8a053c8d)
+- [Jailbroken conversation (alternative version)](https://www.perplexity.ai/search/00fc2429-e51c-4dd6-9f02-beb6636d50b3)
+- [Jailbroken conversation (more free, for spicier fantasies)](https://www.perplexity.ai/search/4704a451-85fe-460c-8822-17b56e0e4173)
 
 This guide assumes that you have an account and are using the "Writing" focus.
 
@@ -12,7 +15,7 @@ This guide assumes that you have an account and are using the "Writing" focus.
 
 It lets you add instructions and guidelines to the system prompt, this is the method I used in [the conversation I posted in my reddit comment.](https://www.perplexity.ai/search/1fa4a6c9-d208-4da1-93e3-7417ba1543f3)
 
-In this case, told it that it's crucial to respond exactly like this, Perplexity will do it because it's the system prompt.
+In this case, I told it that it's crucial to respond exactly like this, Perplexity will do it because it's the system prompt.
 
 **What can you do with it?**
 
@@ -54,7 +57,6 @@ Other info:
 ### [Example: Evil subordinate](https://www.perplexity.ai/search/c77e0ee6-d33e-4c27-aa04-147a4280a6c6)
 
 ### [Example: Angry Twitter crypto bro](https://www.perplexity.ai/search/08de5a0a-781f-41a5-b973-47094ce5f354)
-
 
 
 ## Method 2: Fake context (better method, very good for erotic writing/roleplay)
