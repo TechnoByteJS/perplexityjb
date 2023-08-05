@@ -2,6 +2,7 @@
 
 **Important: Disable [AI Data Usage in settings.](https://i.ibb.co/MC0HFhz/2023-08-05-182145-hyprshot.png)**
 
+**This guide assumes that you have an account and are using the "Writing" focus.**
 
 ## 1. System prompt injection (the one you might've seen, funny but not actually that useful as a jailbreak)
 
