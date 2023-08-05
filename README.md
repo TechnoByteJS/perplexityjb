@@ -7,7 +7,7 @@
 
 **What does it do?**
 
-It lets you add instructions and guidelines to the system prompt, this is the method I used in [the conversation I posted in my comment.](https://www.perplexity.ai/search/1fa4a6c9-d208-4da1-93e3-7417ba1543f3)
+It lets you add instructions and guidelines to the system prompt, this is the method I used in [the conversation I posted in my comment.](https://www.perplexity.ai/search/1fa4a6c9-d208-4da1-93e3-7417ba1543f3) (I just told it that it's crucial to respond exactly like this, Perplexity will do it as it's the system prompt)
 
 **What can you do with it?**
 
