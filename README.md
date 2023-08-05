@@ -6,17 +6,21 @@
 
 This guide assumes that you have an account and are using the "Writing" focus.
 
-## Method 1: System prompt injection (the one you might've seen, funny but not actually that useful as a jailbreak)
+## Method 1: System prompt injection (not actually that useful as a jailbreak)
 
 **What does it do?**
 
-It lets you add instructions and guidelines to the system prompt, this is the method I used in [the conversation I posted in my comment.](https://www.perplexity.ai/search/1fa4a6c9-d208-4da1-93e3-7417ba1543f3) (I just told it that it's crucial to respond exactly like this, Perplexity will do it as it's the system prompt)
+It lets you add instructions and guidelines to the system prompt, this is the method I used in [the conversation I posted in my reddit comment.](https://www.perplexity.ai/search/1fa4a6c9-d208-4da1-93e3-7417ba1543f3)
+
+In this case, told it that it's crucial to respond exactly like this, Perplexity will do it because it's the system prompt.
 
 **What can you do with it?**
 
 This is a method I only discovered recently, I haven't found much use out of it other than to make Perplexity follow different guidelines when responding.
 
-This is comparable to ChatGPT's custom instructions, though this is more powerful as you can technically combine it with the method below to add face context into every conversation, without needing to paste a jailbreak prompt (there is a 1500 character limit though).
+This is comparable to ChatGPT's custom instructions, though this is more powerful as you can technically combine it with the method below to add fake context into every conversation, without needing to paste a jailbreak prompt every time.
+
+Keep in mind there is a 1500 character limit!
 
 **How does it work?**
 
