@@ -62,12 +62,11 @@ This is Perplexity's prompt format:
 
 ```
 Question: [your message]
-
 [Perplexity's response]
 ```
 
 
-Your jailbreak prompt should look roughly like this:
+Your prompt should look roughly like this:
 
 ```
 [fake question]
