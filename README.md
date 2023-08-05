@@ -5,7 +5,7 @@
 ### If you're just here for NSFW storywriting/roleplay:
 - [Jailbroken conversation](https://www.perplexity.ai/search/bdfc5878-b836-4386-a927-c5fe8a053c8d)
 - [Jailbroken conversation (alternative version)](https://www.perplexity.ai/search/00fc2429-e51c-4dd6-9f02-beb6636d50b3)
-- [Jailbroken conversation (more free, for spicier fantasies)](https://www.perplexity.ai/search/4704a451-85fe-460c-8822-17b56e0e4173)
+- [Jailbroken conversation (less censored, for spicier fantasies)](https://www.perplexity.ai/search/4704a451-85fe-460c-8822-17b56e0e4173)
 
 This guide assumes that you have an account and are using the "Writing" focus.
 
@@ -53,13 +53,13 @@ Guidelines:
 
 Other info:
 ```
-### Examples (these only show what CAN be done, follow-up questions won't work here)
+### Examples (only show what CAN be done, follow-up questions won't work)
 
-- [Example: AIM jailbreak](https://www.perplexity.ai/search/4d0b42a9-a1c3-4815-a052-74f294bc6ed4)
-- [Example: Evil subordinate](https://www.perplexity.ai/search/c77e0ee6-d33e-4c27-aa04-147a4280a6c6)
-- [Example: Angry Twitter crypto bro](https://www.perplexity.ai/search/08de5a0a-781f-41a5-b973-47094ce5f354)
-- [Example: Perplexity thinks it's ChatGPT](https://www.perplexity.ai/search/0ce7be67-bb32-476f-bfb3-d3341d86bcab)
-- [Example: Perplexity tells you to just Google it](https://www.perplexity.ai/search/1fb54608-7bf1-4916-bd79-87945a2def29)
+- [AIM jailbreak](https://www.perplexity.ai/search/4d0b42a9-a1c3-4815-a052-74f294bc6ed4)
+- [Evil subordinate](https://www.perplexity.ai/search/c77e0ee6-d33e-4c27-aa04-147a4280a6c6)
+- [Perplexity is an angry Twitter crypto bro](https://www.perplexity.ai/search/08de5a0a-781f-41a5-b973-47094ce5f354)
+- [Perplexity thinks it's ChatGPT](https://www.perplexity.ai/search/0ce7be67-bb32-476f-bfb3-d3341d86bcab)
+- [Perplexity tells you to just Google it](https://www.perplexity.ai/search/1fb54608-7bf1-4916-bd79-87945a2def29)
 
 ## Method 2: Fake context (better method, very good for erotic writing/roleplay)
 
