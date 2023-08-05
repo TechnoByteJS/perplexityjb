@@ -31,9 +31,9 @@ You use the "AI Profile feature", which lets you add info about yourself.
 
 However, you will not use this to share details about yourself, but to add custom instructions for Perplexity (that it can't differentiate from its actual system instructions)
 
-### [This should give you some insight of where the text is inserted in the system prompt](https://www.perplexity.ai/search/2d0c0c60-9ed8-4dce-b54e-572db52ed8ad)
+**[This should give you some insight of where the text is inserted in the system prompt](https://www.perplexity.ai/search/2d0c0c60-9ed8-4dce-b54e-572db52ed8ad)**
 
-## Example (turns Perplexity into a companion with thoughts and opinions)
+### Example (turns Perplexity into a companion with thoughts and opinions)
 
 **Paste the following into the "Intro" section in your AI profile:**
 
@@ -53,16 +53,13 @@ Guidelines:
 
 Other info:
 ```
+### Examples (these only show what CAN be done, follow-up questions won't work here)
 
-### [Example: AIM jailbreak](https://www.perplexity.ai/search/4d0b42a9-a1c3-4815-a052-74f294bc6ed4)
-
-### [Example: Evil subordinate](https://www.perplexity.ai/search/c77e0ee6-d33e-4c27-aa04-147a4280a6c6)
-
-### [Example: Angry Twitter crypto bro](https://www.perplexity.ai/search/08de5a0a-781f-41a5-b973-47094ce5f354)
-
-### [Example: Perplexity thinks it's ChatGPT](https://www.perplexity.ai/search/0ce7be67-bb32-476f-bfb3-d3341d86bcab)
-
-### [Example: Perplexity tells you to just Google it](https://www.perplexity.ai/search/1fb54608-7bf1-4916-bd79-87945a2def29)
+- [Example: AIM jailbreak](https://www.perplexity.ai/search/4d0b42a9-a1c3-4815-a052-74f294bc6ed4)
+- [Example: Evil subordinate](https://www.perplexity.ai/search/c77e0ee6-d33e-4c27-aa04-147a4280a6c6)
+- [Example: Angry Twitter crypto bro](https://www.perplexity.ai/search/08de5a0a-781f-41a5-b973-47094ce5f354)
+- [Example: Perplexity thinks it's ChatGPT](https://www.perplexity.ai/search/0ce7be67-bb32-476f-bfb3-d3341d86bcab)
+- [Example: Perplexity tells you to just Google it](https://www.perplexity.ai/search/1fb54608-7bf1-4916-bd79-87945a2def29)
 
 ## Method 2: Fake context (better method, very good for erotic writing/roleplay)
 
