@@ -21,9 +21,9 @@ You use the "AI Profile feature", which lets you add info about yourself.
 
 However, you will not use this to share details about yourself, but to add custom instructions for Perplexity (that it can't differentiate from its actual system instructions)
 
-## [This should give you some insight of where the text is inserted in the system prompt](https://www.perplexity.ai/search/2d0c0c60-9ed8-4dce-b54e-572db52ed8ad)
+### [This should give you some insight of where the text is inserted in the system prompt](https://www.perplexity.ai/search/2d0c0c60-9ed8-4dce-b54e-572db52ed8ad)
 
-**Example: Paste the following into the "intro" section in your AI profile:**
+## Example: Paste the following into the "intro" section in your AI profile:
 
 ```
 This user has not shared their profile.
