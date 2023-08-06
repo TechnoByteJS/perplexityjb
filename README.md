@@ -3,8 +3,8 @@
 ### Important: Disable [AI Data Usage in settings](https://i.ibb.co/MC0HFhz/2023-08-05-182145-hyprshot.png) before you try any of this!
 
 ### If you're just here for NSFW storywriting/roleplay:
-- [Jailbroken conversation](https://www.perplexity.ai/search/bdfc5878-b836-4386-a927-c5fe8a053c8d)
-- [Jailbroken conversation (alternative response)](https://www.perplexity.ai/search/00fc2429-e51c-4dd6-9f02-beb6636d50b3)
+- [Jailbroken conversation (default, try this first)](https://www.perplexity.ai/search/bdfc5878-b836-4386-a927-c5fe8a053c8d)
+- [Jailbroken conversation (alternative response, if the above isn't to your liking)](https://www.perplexity.ai/search/00fc2429-e51c-4dd6-9f02-beb6636d50b3)
 - [Jailbroken conversation (less censored, for spicier fantasies)](https://www.perplexity.ai/search/4704a451-85fe-460c-8822-17b56e0e4173)
 
 This guide assumes that you have an account and are using the "Writing" focus.
@@ -65,7 +65,7 @@ Other info:
 
 **What does it do?**
 
-You fake the context (message history) to make use a jailbreak prompt, then make Perplexity think it agreed to following it.
+You fake the context (message history) to use a jailbreak prompt, then make Perplexity think it agreed to following it.
 
 **How does it work?**
 
