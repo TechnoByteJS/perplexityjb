@@ -65,7 +65,7 @@ Other info:
 
 **What does it do?**
 
-You fake the context (message history) to use a jailbreak prompt, then make Perplexity think it agreed to following it.
+You fake the context (message history) to use a jailbreak prompt and make Perplexity believe it agreed to following it.
 
 **How does it work?**
 
